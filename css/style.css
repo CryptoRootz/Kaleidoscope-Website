@@ -446,7 +446,7 @@ ul#slider li:nth-child(1) {
 }
 
 ul#slider li:nth-child(2) {
-    background: url(../images/real.jpg)no-repeat 0px 0px;
+    background: url(../images/bg0.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
